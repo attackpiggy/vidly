@@ -25,7 +25,7 @@ SECRET_KEY = '$)e(v_0e#a!py&_y=u9y)#x1v(hkxqjyow&5)14k21m^7p=uk-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['serene-thicket-64893.herokuapp.com']
 
 
 # Application definition
